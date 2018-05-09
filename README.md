@@ -18,6 +18,10 @@ carefully documented. Therefore, the projects are organized in the follows folde
 
 Notebook Jupyter [**Python interpreter**]
 
+<p align="right">
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="20%"  />
+</p>
+
 
 ## Author
 
