@@ -1,7 +1,7 @@
 # GraphicsInPython
 
 <p align="center">
-<img src="https://www.twilio.com/blog/wp-content/uploads/2017/10/jupyter_python_numpy.png" width="50%"  />
+<img src="https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmSvPxYzGEFyJEUNZp4r53wZKd23DcSvRUvocm3USKpYcp_1680x8400" width="70%"  />
 </p>
 
 
@@ -14,9 +14,6 @@ carefully documented. Therefore, the projects are organized in the follows folde
 - Work1Unit3
 - Work2Unit3
 
-<p align="right">
-<img src="https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmSvPxYzGEFyJEUNZp4r53wZKd23DcSvRUvocm3USKpYcp_1680x8400" width="20%"  />
-</p>
 
 ## Minimum requirements
 
