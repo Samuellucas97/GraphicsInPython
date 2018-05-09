@@ -1,7 +1,7 @@
 # GraphicsInPython
 
 <p align="center">
-<img src="http://mathalope.co.uk/wp-content/uploads/2017/05/python_sci_pack_ing.png" width="50%"  />
+<img src="http://mathalope.co.uk/wp-content/uploads/2017/05/python_sci_pack_ing.png" width="70%"  />
 </p>
 
 
