@@ -10,7 +10,7 @@ carefully documented. Therefore, the projects are organized in the follows folde
 - Work2Unit3
 
 <p align="right">
-<img src="https://www.twilio.com/blog/wp-content/uploads/2017/10/jupyter_python_numpy.png" width="14%"  />
+<img src="https://www.twilio.com/blog/wp-content/uploads/2017/10/jupyter_python_numpy.png" width="30%"  />
 </p>
 
 ## Minimum requirements
