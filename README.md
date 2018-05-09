@@ -1,7 +1,7 @@
 # GraphicsInPython
 
 <p align="center">
-<img src="https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmSvPxYzGEFyJEUNZp4r53wZKd23DcSvRUvocm3USKpYcp_1680x8400" width="70%"  />
+<img src="https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmSvPxYzGEFyJEUNZp4r53wZKd23DcSvRUvocm3USKpYcp_1680x8400" width="40%"  />
 </p>
 
 
