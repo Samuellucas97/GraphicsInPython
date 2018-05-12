@@ -23,7 +23,8 @@ Notebook Jupyter [**Python interpreter**].
 
 
 ### :package: Download Notebook Jupyter ## 
-    Prerequisite: While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself. 
+    Prerequisite: While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or 
+    greater, or Python 2.7) for installing the Jupyter Notebook itself. 
 
 Visit the [Download] page or install direct to the terminal using the code below if you are a user ***Ubuntu***:
 
