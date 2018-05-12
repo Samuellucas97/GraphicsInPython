@@ -19,7 +19,18 @@ carefully documented. Therefore, the projects are organized in the follows folde
 
 ## Minimum requirements
 
-Notebook Jupyter [**Python interpreter**]
+Notebook Jupyter [**Python interpreter**].
+
+
+### :package: Download Notebook Jupyter ## 
+  Prerequisite: While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself. 
+
+Visite a página de [Download] ou instale diretamente no terminal usando o seguinte código caso seja usuário ***Ubuntu***:  
+
+```$ sudo apt-get install doxygen``` 	
+
+[Download]:http://www.stack.nl/~dimitri/doxygen/download.html
+
 
 
 ## Author
