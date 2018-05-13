@@ -18,8 +18,7 @@ carefully documented. Therefore, the projects are organized in the follows folde
 
 ## Minimum requirements
 
-Notebook Jupyter [**Python interpreter**]. <p align="justify"><img src="https://blog.luisfred.com.br/wp-content/uploads/2015/10/estrutura-de-dados-em-python.png" width="20%"  /></p>
-
+Notebook Jupyter [**Python interpreter**]. 
 
 ### :package: Download Notebook Jupyter ## 
     Prerequisite: While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or 
@@ -34,4 +33,8 @@ Visit the [Download] page or install direct to the terminal using the code below
 
 ## Author
 
-Samuel Lucas de Moura Ferino (_samuel1797@gmail.com_)
+Samuel Lucas de Moura Ferino (_samuel1797@gmail.com_) 
+<p align="right">
+<img src="https://blog.luisfred.com.br/wp-content/uploads/2015/10/estrutura-de-dados-em-python.png" width="20%"  />
+</p>
+
