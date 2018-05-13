@@ -14,7 +14,7 @@ carefully documented. Therefore, the projects are organized in the follows folde
 - Work1Unit3
 - Work2Unit3
 
-<p align="justify">
+<p align="right">
 <img src="https://blog.luisfred.com.br/wp-content/uploads/2015/10/estrutura-de-dados-em-python.png" width="20%"  />
 </p>
 
