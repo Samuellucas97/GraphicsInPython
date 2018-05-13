@@ -34,7 +34,3 @@ Visit the [Download] page or install direct to the terminal using the code below
 ## Author
 
 Samuel Lucas de Moura Ferino (_samuel1797@gmail.com_) 
-<p align="right">
-<img src="https://blog.luisfred.com.br/wp-content/uploads/2015/10/estrutura-de-dados-em-python.png" width="20%"  />
-</p>
-
